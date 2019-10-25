@@ -82,9 +82,9 @@ width: 100%;
   float: right;
   margin-left: 200px;
   margin-top: 90px;
+  border-radius: 3px;
 }
 
-/* Style the links inside the navigation bar */
 .buscador a {
   float: left;
   display: block;

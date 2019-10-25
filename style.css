@@ -41,6 +41,10 @@ li a:hover {
   background-color: #111;
 }
 
+.cartel{
+  margin-top: 10px;
+}
+
 .socialmediaimg{
   height: auto; max-width: 500px;
 }

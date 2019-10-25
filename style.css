@@ -11,6 +11,7 @@ body {
   font-family: sans-serif;
   margin: 0;
   font-size: 1.5rem;
+  height:100%;
 }
 /*region menu*/
 ul {
@@ -20,6 +21,10 @@ ul {
   overflow: hidden;
   background-color: #333;
 }
+
+table, th, td {
+  border: 1px solid black;
+} /*TODO remove*/
 
 li {
   float: left;
@@ -76,7 +81,12 @@ width: 100%;
 .leftmenu li{
     float: right;
 }
+/* region footer*/
 
+.footer{
+  height: 100px;]
+  background-color: #d85a41;
+}
 /*region Buscador*/
 
 .buscador {
